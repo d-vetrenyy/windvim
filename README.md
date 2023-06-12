@@ -1,0 +1,2 @@
+# windvim
+personal neovim config
